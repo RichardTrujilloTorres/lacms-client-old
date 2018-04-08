@@ -24,5 +24,8 @@
   "bugs": {
     "url": "https://github.com/RichardTrujilloTorres/lacms-client/issues"
   },
-  "homepage": "https://github.com/RichardTrujilloTorres/lacms-client#readme"
+  "homepage": "https://github.com/RichardTrujilloTorres/lacms-client#readme",
+  "dependencies": {
+    "angular": "^1.6.9"
+  }
 }
